@@ -1,0 +1,137 @@
+country,Continent,hdi_2015,gni_2015,hdi_cat
+Afghanistan,AS,0.479,600.0,low index
+Albania,EU,0.764,4390.0,high index
+Algeria,AF,0.745,4830.0,high index
+Angola,AF,0.5329999999999999,4030.0,medium index
+Argentina,A,0.8270000000000001,12300.0,high index
+Armenia,AS / EU,0.743,4030.0,high index
+Australia,OC,0.9390000000000001,60400.0,max. index
+Austria,EU,0.893,47600.0,high index
+Azerbaijan,AS / EU,0.759,6550.0,high index
+Bahrain,AS,0.8240000000000001,22700.0,high index
+Bangladesh,AS,0.579,1190.0,medium index
+Belarus,EU,0.7959999999999999,6720.0,high index
+Belgium,EU,0.8959999999999999,44200.0,high index
+Benin,AF,0.485,870.0,low index
+Bolivia,A,0.674,3000.0,medium index
+Bosnia and Herzegovina,EU,0.75,5050.0,high index
+Botswana,AF,0.698,6680.0,medium index
+Brazil,A,0.754,10100.0,high index
+Bulgaria,EU,0.794,7480.0,high index
+Burkina Faso,AF,0.402,620.0,low index
+Burundi,AF,0.40399999999999997,280.0,low index
+Cambodia,AS,0.563,1060.0,medium index
+Cameroon,AF,0.518,1470.0,medium index
+Canada,A,0.92,47500.0,max. index
+Chad,AF,0.396,890.0,low index
+Chile,A,0.847,14300.0,high index
+Colombia,A,0.727,7130.0,high index
+"Congo, Dem. Rep.",AF,0.435,460.0,low index
+"Congo, Rep.",AF,0.5920000000000001,2350.0,medium index
+Costa Rica,A,0.7759999999999999,10500.0,high index
+Cote d'Ivoire,AF,0.474,1490.0,low index
+Croatia,EU,0.8270000000000001,13000.0,high index
+Cyprus,AS / EU,0.856,26200.0,high index
+Czech Republic,EU,0.878,18300.0,high index
+Denmark,EU,0.925,60200.0,max. index
+Dominican Republic,A,0.722,6250.0,high index
+Ecuador,A,0.7390000000000001,6000.0,high index
+Egypt,AF,0.691,3310.0,medium index
+El Salvador,A,0.68,3880.0,medium index
+Equatorial Guinea,AF,0.5920000000000001,10800.0,medium index
+Estonia,EU,0.865,18400.0,high index
+Ethiopia,AF,0.44799999999999995,600.0,low index
+Finland,EU,0.895,46600.0,high index
+France,EU,0.897,40700.0,high index
+Gabon,AF,0.6970000000000001,8040.0,medium index
+Gambia,AF,0.452,440.0,low index
+Georgia,AS / EU,0.769,4120.0,high index
+Germany,EU,0.9259999999999999,45800.0,max. index
+Ghana,AF,0.579,1490.0,medium index
+Greece,EU,0.866,20400.0,high index
+Guatemala,A,0.64,3610.0,medium index
+Guinea,AF,0.414,690.0,low index
+Haiti,A,0.493,810.0,low index
+Honduras,A,0.625,2090.0,medium index
+Hungary,EU,0.836,13000.0,high index
+India,AS,0.624,1600.0,medium index
+Indonesia,AS,0.6890000000000001,3430.0,medium index
+Iran,AS,0.774,5340.0,high index
+Ireland,EU,0.9229999999999999,51900.0,max. index
+Israel,AS,0.899,36100.0,high index
+Italy,EU,0.887,33000.0,high index
+Jamaica,A,0.73,4730.0,high index
+Japan,AS,0.903,38900.0,max. index
+Jordan,AS,0.742,3890.0,high index
+Kazakhstan,AS / EU,0.794,11400.0,high index
+Kenya,AF,0.555,1310.0,medium index
+Kuwait,AS,0.8,40800.0,high index
+Kyrgyz Republic,AS,0.664,1180.0,medium index
+Lao,AS,0.586,2000.0,medium index
+Latvia,EU,0.83,15000.0,high index
+Lebanon,AS,0.763,8040.0,high index
+Lesotho,AF,0.49700000000000005,1320.0,low index
+Liberia,AF,0.42700000000000005,380.0,low index
+Lithuania,EU,0.848,15100.0,high index
+Madagascar,AF,0.512,420.0,medium index
+Malawi,AF,0.47600000000000003,340.0,low index
+Malaysia,AS,0.789,10500.0,high index
+Mali,AF,0.442,790.0,low index
+Mauritania,AF,0.513,1230.0,medium index
+Mauritius,AF,0.7809999999999999,9780.0,high index
+Mexico,A,0.762,9860.0,high index
+Moldova,EU,0.6990000000000001,2230.0,medium index
+Mongolia,AS,0.735,3850.0,high index
+Morocco,AF,0.647,3010.0,medium index
+Mozambique,AF,0.418,580.0,low index
+Myanmar,AS,0.556,1190.0,medium index
+Namibia,AF,0.64,5320.0,medium index
+Nepal,AS,0.5579999999999999,740.0,medium index
+Netherlands,EU,0.924,49000.0,max. index
+New Zealand,OC,0.915,40300.0,max. index
+Nicaragua,A,0.645,2020.0,medium index
+Niger,AF,0.353,390.0,low index
+North Macedonia,EU,0.748,5100.0,high index
+Norway,EU,0.9490000000000001,93100.0,max. index
+Pakistan,AS,0.55,1430.0,medium index
+Panama,A,0.7879999999999999,11500.0,high index
+Paraguay,A,0.693,4210.0,medium index
+Peru,A,0.74,6160.0,high index
+Philippines,AS,0.682,3520.0,medium index
+Poland,EU,0.855,13300.0,high index
+Portugal,EU,0.843,20400.0,high index
+Qatar,AS,0.856,75700.0,high index
+Romania,EU,0.802,9530.0,high index
+Russia,AS / EU,0.804,11800.0,high index
+Rwanda,AF,0.498,710.0,low index
+Saudi Arabia,AS,0.847,23800.0,high index
+Senegal,AF,0.494,980.0,low index
+Serbia,EU,0.7759999999999999,5540.0,high index
+Sierra Leone,AF,0.42,550.0,low index
+Singapore,AS,0.925,54000.0,max. index
+Slovak Republic,EU,0.845,17600.0,high index
+Slovenia,EU,0.89,22200.0,high index
+South Africa,AF,0.6659999999999999,6070.0,medium index
+South Korea,AS,0.9009999999999999,27300.0,max. index
+Spain,EU,0.884,28400.0,high index
+Sri Lanka,AS,0.7659999999999999,3760.0,high index
+Swaziland,AF,0.541,3280.0,medium index
+Sweden,EU,0.9129999999999999,57900.0,max. index
+Switzerland,EU,0.9390000000000001,85800.0,max. index
+Tajikistan,AS,0.627,1240.0,medium index
+Tanzania,AF,0.531,910.0,medium index
+Thailand,AS,0.74,5710.0,high index
+Timor-Leste,AS,0.606,2980.0,medium index
+Trinidad and Tobago,A,0.78,18800.0,high index
+Tunisia,AF,0.725,3930.0,high index
+Turkey,AS / EU,0.767,12000.0,high index
+Uganda,AF,0.493,670.0,low index
+Ukraine,EU,0.743,2650.0,high index
+United Arab Emirates,AS,0.84,43400.0,high index
+United Kingdom,EU,0.91,43700.0,max. index
+United States,A,0.92,56300.0,max. index
+Uruguay,A,0.795,15800.0,high index
+Vietnam,AS,0.6829999999999999,1950.0,medium index
+Yemen,AS,0.48200000000000004,1100.0,low index
+Zambia,AF,0.579,1560.0,medium index
+Zimbabwe,AF,0.516,890.0,medium index
